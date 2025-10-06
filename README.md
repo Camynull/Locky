@@ -44,7 +44,6 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/Screen-1.png" alt="Screenshot 1" width="190" style="margin-right:10px;" />
   <img src="assets/Screen-2.png" alt="Screenshot 2" width="190" style="margin-right:10px;" />
   <img src="assets/Screen-3.png" alt="Screenshot 3" width="190" style="margin-right:10px;" />
   <img src="assets/Screen-4.png" alt="Screenshot 4" width="190" style="margin-right:10px;" />
